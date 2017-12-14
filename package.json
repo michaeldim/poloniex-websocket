@@ -1,0 +1,22 @@
+{
+  "name": "poloniex-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run_api-v2.js",
+  "author": "Phitchayaphong Tantikul",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "autobahn": "^17.5.2",
+    "axios": "^0.17.1",
+    "eslint-config-recommended": "^2.0.0",
+    "underscore": "^1.8.3",
+    "ws": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
